@@ -35,3 +35,11 @@ Untuk menjalankan proyek ini secara lokal, Anda dapat mengikuti langkah-langkah 
 1. Clone repository ini:
    ```bash
    git clone https://github.com/Hlossen116/analisis-tabel-frekuensi-mean-variasi-standar-deviasi.git
+   ```
+
+## Lisensi
+
+Proyek ini dilisensikan di bawah [MIT License](LICENSE).
+
+---
+Copyright (c) 2025 Hidayat Lossen
