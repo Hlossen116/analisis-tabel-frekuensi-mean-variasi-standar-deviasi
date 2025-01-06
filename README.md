@@ -39,7 +39,7 @@ Untuk menjalankan proyek ini secara lokal, Anda dapat mengikuti langkah-langkah 
 
 ## Lisensi
 
-Proyek ini dilisensikan di bawah [MIT License](LICENSE).
+Proyek ini dilisensikan di bawah [Lossen Corp](LICENSE).
 
 ---
 Copyright (c) 2025 Hidayat Lossen
